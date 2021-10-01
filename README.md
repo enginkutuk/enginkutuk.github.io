@@ -1,37 +1,59 @@
-## Welcome to GitHub Pages
+# 1Z0–819: Java SE 11 Developer
 
-You can use the [editor on GitHub](https://github.com/enginkutuk/enginkutuk.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+## Working with Java data types
+- Use primitives and wrapper classes, including, operators, parentheses, type promotion and casting
+- Handle text using String and StringBuilder classes
+- Use local variable type inference, including as lambda parameters
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Controlling Program Flow
+- Create and use loops, if/else, and switch statements
 
-### Markdown
+## Java Object-Oriented Approach
+- Declare and instantiate Java objects including nested class objects, and explain objects’ lifecycles (including creation, dereferencing by reassignment, and garbage collection)
+- Define and use fields and methods, including instance, static and overloaded methods
+- Initialize objects, and their members using instance and static initialiser statements and constructors
+- Understand variable scopes, apply encapsulation and make objects immutable
+- Create and use subclasses and superclasses, including abstract classes
+- Utilize polymorphism and casting to call methods, differentiate object type versus reference type
+- Create and use interfaces, identify functional interfaces, and utilize private, static, and default methods
+- Create and use enumerations
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Exception Handling
+- Handle exceptions using try/catch/finally clauses, try-with-resource, and multi-catch statements
+- Create and use custom exceptions
 
-```markdown
-Syntax highlighted code block
+## Working with Arrays and Collections
+- Use generics, including wildcards
+- Use a Java array and List, Set, Map and Deque collections, including convenience methods
+- Sort collections and arrays using Comparator and Comparable interfaces
 
-# Header 1
-## Header 2
-### Header 3
+## Working with Streams and Lambda expressions
+- Implement functional interfaces using lambda expressions, including interfaces from the java.util.function package
+- Use Java Streams to filter, transform and process data
+- Perform decomposition and reduction, including grouping and partitioning on sequential and parallel streams
 
-- Bulleted
-- List
+## Java Platform Module System
+- Deploy and execute modular applications, including automatic modules
+- Declare, use, and expose modules, including the use of services
 
-1. Numbered
-2. List
+## Concurrency
+- Create worker threads using Runnable and Callable, and manage concurrency using an ExecutorService and java.util.concurrent API
+- Develop thread-safe code, using different locking mechanisms and java.util.concurrent API
 
-**Bold** and _Italic_ and `Code` text
+## Java I/O API
+- Read and write console and file data using I/O Streams
+- Implement serialization and deserialization techniques on Java objects
+- Handle file system objects using java.nio.file API
 
-[Link](url) and ![Image](src)
-```
+## Secure Coding in Java SE Applications
+- Develop code that mitigates security threats such as denial of service, code injection, input validation and ensure data integrity
+- Secure resource access including filesystems, manage policies and execute privileged code
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Database Applications with JDBC
+- Connect to and perform database SQL operations, process query results using JDBC API
 
-### Jekyll Themes
+## Localization
+- Implement Localization using Locale, resource bundles, and Java APIs to parse and format messages, dates, and numbers
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/enginkutuk/enginkutuk.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Annotations
+- Create, apply, and process annotations
