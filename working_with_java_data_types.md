@@ -1,4 +1,4 @@
-###Working with Java Data Types
+### Working with Java Data Types
 Java da primitive data tipleri Object değillerdir. Object den inherit olmazlar. Java pure object oriented language olarak düşünülmemelidir.
 
 #### Working with Variables
