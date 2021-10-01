@@ -35,6 +35,7 @@ atama yapılmayan statelerde break edilmemeli ve default metod da atama yapılma
 ![](./switch_case_illegal_1.png)
 
 ![](./switch_case_legal_1.png)
+
 Yani olası tüm dallarda atama yapılmış olmalıdır.
 
 
