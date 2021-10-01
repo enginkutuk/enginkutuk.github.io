@@ -1,6 +1,6 @@
 # 1Z0–819: Java SE 11 Developer
 
-## Working with Java data types
+## Working with Java Data ypes
 - Use primitives and wrapper classes, including, operators, parentheses, type promotion and casting
 - Handle text using String and StringBuilder classes
 - Use local variable type inference, including as lambda parameters
